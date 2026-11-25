@@ -4,7 +4,7 @@ README word count (body prose only): 1178
 
 ## Run and inspect
 
-Keep the project files together and open [BriefCheck.html](BriefCheck.html) in a modern browser. The prototype uses HTML and CSS for the interface and local JavaScript for evaluation, presentation and attempt history. It runs offline without installation or keys. The fictional advisor renders templates from the cited edition. An actual language model and live university documents are outside this build.
+Keep the project files together and open [BriefCheck.html](BriefCheck.html) in a modern browser. The prototype uses HTML and CSS for the interface and local JavaScript for evaluation, presentation and attempt history. It runs offline without installation or keys. The fictional advisor renders templates from the cited edition. An actual language model and live university documents are outside this build. Extract the downloaded ZIP before opening BriefCheck.html so the browser can load both JavaScript files.
 
 ## Reproduce a decision
 
